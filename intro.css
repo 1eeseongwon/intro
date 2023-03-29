@@ -1,0 +1,30 @@
+body { background-color: #132B4F;}
+#wrap {
+    background-color: white;
+    border: 3px #555;
+    padding: 10px 20px;
+    margin: 20px;
+}
+
+h3 { 
+    background-color: #D1D9E6;
+    border: 3px #555;
+}
+h2 { 
+    background-color: #D1D9E6;
+    border: 3px #555;
+}
+
+
+    /* 미디어 쿼리 */
+    /* 미디어 종류: all, print, screen, speech... */
+    @media screen and (max-width: 768px) {
+        body {
+            background-color: #fee1e1;
+        }
+    }
+    @media screen and (max-width: 500px) {
+        body {
+            background-color: #5edfff;
+        }
+    }
