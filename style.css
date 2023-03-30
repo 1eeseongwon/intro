@@ -81,7 +81,7 @@ h2 {
 }
 .owner p {
     display: inline-block;
-    margin: 0 400px 0 0;
+    margin: 0 200px 0 0;
     
 }
 .owner p, .owner a {
@@ -89,10 +89,6 @@ h2 {
 }
 
 /* padding: 위 오른쪽 아래 왼쪽 순서대로 여백 적용 */
-
-
-
-
 
 
 
